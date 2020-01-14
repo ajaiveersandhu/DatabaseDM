@@ -1,0 +1,1 @@
+SELECT count(*) AS number_of_products FROM products;
